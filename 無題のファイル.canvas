@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d79a768ff93944c2","x":-180,"y":-100,"width":250,"height":60,"type":"text","text":"wdqefefwf"},
+		{"id":"994d06a9fc63fbcf","x":-110,"y":80,"width":180,"height":180,"color":"5","type":"file","file":"fwefwe.md"}
+	],
+	"edges":[
+		{"id":"428d0bd60c00879a","fromNode":"d79a768ff93944c2","fromSide":"bottom","toNode":"994d06a9fc63fbcf","toSide":"top"}
+	]
+}
